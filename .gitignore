@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit config/cache
+.streamlit/
+
+# Large model files / weights
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.pb
+*.onnx
+*.gguf
+model_checkpoints/
+checkpoint/
+
+# OS files
+.DS_Store
+Thumbs.db

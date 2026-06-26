@@ -1,0 +1,9 @@
+torch>=2.0.0
+numpy<2.0.0,>=1.22.0
+pandas
+yfinance
+streamlit
+plotly
+ollama
+huggingface_hub
+timesfm[torch]
