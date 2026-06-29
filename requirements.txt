@@ -6,4 +6,5 @@ streamlit
 plotly
 ollama
 huggingface_hub
+python-dotenv
 timesfm[torch]

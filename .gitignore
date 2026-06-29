@@ -24,6 +24,9 @@ __pycache__/
 model_checkpoints/
 checkpoint/
 
+# Secrets
+.env
+
 # OS files
 .DS_Store
 Thumbs.db
